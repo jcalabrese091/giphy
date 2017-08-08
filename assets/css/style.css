@@ -1,0 +1,10 @@
+.modify{
+	display: inline-block;
+    margin: 15px;
+    text-align: center;
+};
+button.sport {
+    margin: 10px;
+    background-color: lightseagreen;
+    color: darkblue;
+};
